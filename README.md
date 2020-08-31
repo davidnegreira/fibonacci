@@ -1,4 +1,4 @@
 ## Execute with:
 docker build -t fibonacci .
 
-docker run -it --rm fibonacci:lattest
+docker run -it --rm fibonacci:latest
